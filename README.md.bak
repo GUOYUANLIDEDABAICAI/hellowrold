@@ -3,7 +3,7 @@
 public class Demo{
     @Test
     public void test(){
-	//æ‰“å°helloworld
+	//´òÓ¡helloworld
       System.out.println("helloworld");
     }
 }
